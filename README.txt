@@ -5,7 +5,7 @@ Soy un estudiante de la carrera de ingeneria de software con una pasión por el 
 
 ## Habilidades
 * **Lenguajes de Programación:** Python, JavaScript, Java, C++
-* **Herramientas y Tecnologías:** Git, GitHub, Visual Studio Code, bases de datos
+* **Herramientas y Tecnologías:** Git, GitHub, Visual Studio Code, MYSQL
 * **Idiomas:** Español (nativo), Inglés (intermedio)
 
 ## Contacto
